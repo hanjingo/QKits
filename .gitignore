@@ -52,3 +52,9 @@ compile_commands.json
 *creator.user*
 
 *_qmlcache.qrc
+
+# Macos
+.DS_Store
+
+# Qt build file
+build
